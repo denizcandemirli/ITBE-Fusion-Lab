@@ -1,7 +1,7 @@
 # ITBE-Fusion-Lab
 # Web Application for Ifc Model Web Viewer
 
-1)Overal Software Implementation Setup
+1)Overal Software Implementation Setup 🌱
 
 
 1.1)Overall Architecture of the Web Application:
@@ -77,7 +77,7 @@ The web application is locally hosted and built using Node.js along with various
 
 
 
-- Different aspects of the project -->
+- 👀🌱  Different aspects of the project --> 
 
 
  <img width="400" height="300" alt="Screenshot 2024-02-26 013132" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/cc90e9a5-1890-4641-8898-03d8eb79fe75">
