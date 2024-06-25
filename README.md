@@ -1,4 +1,6 @@
 # ITBE-Fusion-Lab
+# Web Application for Ifc Model Web Viewer
+
 1)Overal Software Implementation Setup
 
 
@@ -31,12 +33,11 @@ Packages Used:
 
 •	API Keys: Advanced Bootstrap forms are integrated with API keys for digital participation and contact forms, allowing for secure and seamless communication between the web application and APIs. 
 
+-Diagram of web application
 
- ![image](https://github.com/denizcandemirli/ITBE-Fusion-Lab/assets/159064259/73726000-cdc2-4237-a968-a8375d46ab73)
+<img width="400" height="300" alt="Screenshot 2024-02-26 013121" src="https://github.com/denizcandemirli/ITBE-Fusion-Lab/assets/159064259/73726000-cdc2-4237-a968-a8375d46ab73">
 
-Diagram of web application
-
-"Web Application for Ifc Model Web Viewer" -  ITBE Fusion Lab 
+-Overall Web Page Design : 
 
 <img width="400" height="300" alt="Screenshot 2024-02-26 013121" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/c6457a79-cacf-4c04-ab15-fe0155e7d71b">
 <img width="400" height="300" alt="Screenshot 2024-02-26 012846" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/c559a47e-d3c5-47b2-b051-0f75a3dafe8b">
