@@ -73,17 +73,12 @@ The web application is locally hosted and built using Node.js along with various
 <img width="400" height="300" alt="Screenshot 2024-02-20 144115" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/90fcfe88-30d1-4761-b4e5-445851af259a">
 
 
-<img width="400" height="300" alt="Screenshot 2024-02-20 142504" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/6fae8304-aa6e-42f2-a861-761c250bbea6">
-
-
-
 - 👀🌱  Different aspects of the project --> 
 
 
  <img width="400" height="300" alt="Screenshot 2024-02-26 013132" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/cc90e9a5-1890-4641-8898-03d8eb79fe75">
  <img width="400" height="300" alt="Screenshot 2024-02-26 013152" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/a5d31822-5425-40a7-a42c-24e91e3da7f5">
 
- 
 
 - Watch my render video! 👀 -->
 
