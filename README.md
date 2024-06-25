@@ -67,7 +67,7 @@ The web application is locally hosted and built using Node.js along with various
 
 
 
-- Generated CityGML of the IFC and the .shp of existing bridge:
+- Generated CityGML of the IFC:
 
 
 <img width="400" height="300" alt="Screenshot 2024-02-20 144115" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/90fcfe88-30d1-4761-b4e5-445851af259a">
