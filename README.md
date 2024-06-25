@@ -47,7 +47,7 @@ The web application is locally hosted and built using Node.js along with various
 -Digital Participation Form Page : 
 
 <img width="400" height="300" alt="Screenshot 2024-02-26 013233" src="https://github.com/denizcandemirli/ITBE-Fusion-Lab/assets/159064259/d455139c-fd1c-49c7-843b-62214041415f">
-<img width="400" height="300" alt="Screenshot 2024-02-26 013242" src="https://github.com/denizcandemirli/ITBE-Fusion-Lab/assets/159064259/548e9662-11b4-46e5-81fa-f72e620a76f3">
+<img width="200" height="300" alt="Screenshot 2024-02-26 013242" src="https://github.com/denizcandemirli/ITBE-Fusion-Lab/assets/159064259/548e9662-11b4-46e5-81fa-f72e620a76f3">
 
 
 
